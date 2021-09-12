@@ -1,0 +1,15 @@
+*{
+}
+
+select{
+	border-color: blue;
+	border-radius: 10px;
+}
+select:hover{
+	background: blue;
+	color: #fff;
+}
+.premio{
+	background: blue;
+	color: #E8EA29;
+}
